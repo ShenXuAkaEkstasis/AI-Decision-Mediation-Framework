@@ -4,7 +4,7 @@
 
 **Decision Mediation Layer (DML)** explains how decision authority shifts from humans to AI systems, leading to AI-to-AI (A2A) interaction structures.
 
-![AI Decision Mediation Framework](https://link_to_your_image.png)
+![AI Decision Mediation Framework](AI Decision Mediation Framework.png)
 
 *Figure 1. Conceptual structure of AI-mediated decision systems.*
 
