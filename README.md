@@ -30,15 +30,19 @@ Describes the macro-level shift in economic structures as decision-making author
 
 These papers form the theoretical foundation of the AI Decision Mediation Framework. All papers are publicly available on SSRN.
 
-Xu, Shen (2026). *Decision Mediation Layer: A Unified Framework for AI-Mediated Decision Systems*. SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918
+## Papers
 
-Xu, Shen (2026). *Pre-Decision Structuring in AI-Mediated Decision Systems: How Decision Spaces Are Shaped Before Choice Formation*. SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610418
+These papers form the theoretical foundation of the AI Decision Mediation Framework. All papers are publicly available on SSRN.
 
-Xu, Shen (2026). *From B2B to A2A (AI-to-AI / Agent-to-Agent): A Structural Framework for AI-Mediated Transaction Systems*. SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6513459
+Xu, Shen (2026). *Decision Mediation Layer: A Unified Framework for AI-Mediated Decision Systems*. SSRN eJournal. Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918)
 
-Xu, Shen (2026). *Rethinking Click-Based Advertising in the Age of AIGC and AI Agents: A Dual-Side Displacement Model*. SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6527100
+Xu, Shen (2026). *Pre-Decision Structuring in AI-Mediated Decision Systems: How Decision Spaces Are Shaped Before Choice Formation*. SSRN eJournal. Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610418](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610418)
 
-Xu, Shen (2026). *Distributional Control in Generative Engine Optimization: A Framework for Distributional Shaping and Competition*. SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6535999
+Xu, Shen (2026). *From B2B to A2A (AI-to-AI / Agent-to-Agent): A Structural Framework for AI-Mediated Transaction Systems*. SSRN eJournal. Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6513459](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6513459)
+
+Xu, Shen (2026). *Rethinking Click-Based Advertising in the Age of AIGC and AI Agents: A Dual-Side Displacement Model*. SSRN eJournal. Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6527100](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6527100)
+
+Xu, Shen (2026). *Distributional Control in Generative Engine Optimization: A Framework for Distributional Shaping and Competition*. SSRN eJournal. Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6535999](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6535999)
 
 ---
 
