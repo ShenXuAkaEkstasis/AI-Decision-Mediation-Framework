@@ -30,10 +30,6 @@ Describes the macro-level shift in economic structures as decision-making author
 
 These papers form the theoretical foundation of the AI Decision Mediation Framework. All papers are publicly available on SSRN.
 
-## Papers
-
-These papers form the theoretical foundation of the AI Decision Mediation Framework. All papers are publicly available on SSRN.
-
 Xu, Shen (2026). *Decision Mediation Layer: A Unified Framework for AI-Mediated Decision Systems*. SSRN eJournal. Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918)
 
 Xu, Shen (2026). *Pre-Decision Structuring in AI-Mediated Decision Systems: How Decision Spaces Are Shaped Before Choice Formation*. SSRN eJournal. Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610418](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610418)
