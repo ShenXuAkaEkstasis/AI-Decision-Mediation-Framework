@@ -50,45 +50,45 @@ Structured judgment systems that provide evaluative reasoning rather than simple
 
 ### SSRN
 
-- **Decision Mediation Layer: A Unified Framework for AI-Mediated Decision Systems**  
+- **Attribution Collapse under AI-Mediated Decision Systems**  
   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918
 
-- **Pre-Decision Structuring in AI-Mediated Decision Systems**  
+- **From Actor-to-Actor to AI-to-AI: A Multi-layer Breakdown of AI-Mediated Transaction Systems**  
   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610418
 
-- **From B2B to A2A (AI-to-AI / Agent-to-Agent)**  
+- **From B2B to A2A (AI-to-AI): AI as the New Actor in Business Transactions**  
   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6513459
 
 - **Rethinking Click-Based Advertising in the Age of AIGC and AI Agents**  
   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6527100
 
-- **Distributional Control in Generative Engine Optimization**  
+- **Distributional Control in Generative Engine Optimization: A Framework for Distributional Shaping and Competition**  
   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6535999
 
 ---
 
 ### Zenodo
 
-- **Pre-Decision Structuring in AI-Mediated Systems**  
-  https://zenodo.org/records/20054514
+- **Decision Mediation Layer: A Unified Framework for AI-Mediated Decision Systems**  
+  Zenodo: https://zenodo.org/records/20054514
 
-- **Decision Authority Economy (DAE)**  
-  https://zenodo.org/records/20053023
+- **A Unified Terminological Framework for AI-Mediated Decision Systems**  
+  Zenodo: https://zenodo.org/records/20053023
 
-- **AI Lean: Token Efficiency and AI-Native Operational Logic**  
-  https://zenodo.org/records/20048836
+- **Decision Authority Economy: A Definitional Framework for AI-Mediated Economic Systems**  
+  Zenodo: https://zenodo.org/records/20048451
 
-- **Attribution Collapse under AI-Mediated Systems**  
-  https://zenodo.org/records/20048451
+- **Judgement as a Service (JaaS): Operationalizing Decision Authority in AI-Mediated Systems**  
+  Zenodo: https://zenodo.org/records/20048100
 
-- **From B2B to A2A (AI-to-AI / Agent-to-Agent)**  
-  https://zenodo.org/records/20048100
+- **From B2B to A2A (AI-to-AI / Agent-to-Agent): A Structural Framework for AI-Mediated Transaction Systems**  
+  Zenodo: https://zenodo.org/records/20048836
 
-- **Decision Mediation Layer (DML)**  
-  https://zenodo.org/records/20047831
+- **Inducement in AI-Mediated Decision Systems: A Framework for Decision Formation under Algorithmic Mediation**  
+  Zenodo: https://zenodo.org/records/20047831
 
-- **Distributional Control in GEO**  
-  https://zenodo.org/records/20045694
+- **Pre-Decision Structuring in AI-Mediated Systems: How Decision Spaces Are Shaped Before Choice Formation**  
+  Zenodo: https://zenodo.org/records/20045694
 
 ---
 
@@ -115,6 +115,12 @@ citation/      Citation and reference materials
 ## Citation
 
 If you reference this framework, please cite the corresponding working papers listed above.
+
+---
+
+## External Links
+
+- LinkedIn: https://www.linkedin.com/in/shanehsu/
 
 ---
 
