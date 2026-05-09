@@ -12,7 +12,7 @@ Shen Xu · Independent Researcher
 
 ## Conceptual Structure
 
-![Framework Map](./diagrams/framework-map.png)
+![Framework Map](./AI%20Decision%20Mediation%20Framework.png)
 
 *Figure 1. Conceptual structure of AI-mediated decision systems.*
 
